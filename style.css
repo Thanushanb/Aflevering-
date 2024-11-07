@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #48c9b0;
+    padding: 12px;
+    color: white;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+
+}
+
+td {
+    border-bottom: 1px solid #ddd;
+    color: #333;
+    background: linear-gradient(to bottom, #48c9af83, transparent);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    background-color: #48c9b0;;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 16px;
+}
